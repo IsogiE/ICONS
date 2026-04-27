@@ -1,3 +1,6 @@
+How to Download:
+`Click the Green "<> Code" Button > Download ZIP`
+
 Add to:
 `Program Files (x86)/World of Warcraft/_retail_/Interface/`
 
